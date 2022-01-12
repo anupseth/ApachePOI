@@ -15,6 +15,14 @@ public class Employee {
 	
 	private String name;
 	private String address;
-	private Integer age;
+	private String age;
 	private String dob;
+	//private List<String> auditData = new ArrayList<String>();
+	
+//	public Employee(String name,String address, Integer age, String dob) {
+//		this.name = name;
+//		this.address = address;
+//		this.age = age;
+//		this.dob = dob;
+//	}
 }
